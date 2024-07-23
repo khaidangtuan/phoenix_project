@@ -1,9 +1,9 @@
 input_json = { \
-  "model": string, \
-  "color": string, \
-  "currency": string,
-  "rangeType": string, # m|y
-  "rangeValue": integer # 1|3|5|6
+\t"model": string, \
+\t"color": string, \
+\t"currency": string, \
+\t"rangeType": string, # m|y \
+\t"rangeValue": integer # 1|3|5|6 \
 }
 
 response_json = {
