@@ -1,9 +1,9 @@
 input_json = { \
-\t"model": string, \
-\t"color": string, \
-\t"currency": string, \
-\t"rangeType": string, # m|y \
-\t"rangeValue": integer # 1|3|5|6 \
+&ensp"model": string, \
+&ensp"color": string, \
+&ensp"currency": string, \
+&ensp"rangeType": string, # m|y \
+&ensp"rangeValue": integer # 1|3|5|6 \
 }
 
 response_json = {
